@@ -2,6 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/posts/[id]": "pages/posts/[id].js",
+  "/posts/[id]/comentarios": "pages/posts/[id]/comentarios.js",
   "/": "pages/index.js",
-  "/sobre": "pages/sobre.js"
+  "/sobre": "pages/sobre.js",
+  "/404": "pages/404.js"
 }
